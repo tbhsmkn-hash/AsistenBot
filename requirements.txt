@@ -1,7 +1,7 @@
-# installa library
-#!pip install -q streamlit streamlit-option-menu google-genai pypdf2 pillow langchain-text-splitters pyngrok
-
-from google.colab import drive, userdata
-from pyngrok import ngrok
-import subprocess
-import time
+streamlit
+streamlit-option-menu
+google-generativeai
+PyPDF2
+langchain-text-splitters
+Pillow
+pyngrok
